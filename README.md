@@ -19,8 +19,8 @@ A simple arcade-style asteroid shooter game built using **Python** and **Pygame*
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/asteroid-game.git
-cd asteroid-game
+git clone https://github.com/m0tarkus/py_roids.git
+cd py_roids
 ```
 
 2. Install Pygame:
